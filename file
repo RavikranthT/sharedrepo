@@ -1,7 +1,0 @@
-stages('Audit tools'){
-   steps{
-     sh'''
-      git vesion
-     '''
-   }
-}
